@@ -6,10 +6,11 @@
 
 ### 🏠 [Homepage](https://github.com/fornelc/google_shopping_web_scraping)
 
-## Usage
+## Install
 
 ```sh
-pip install requests, pip install beautifulsoup4
+pip install requests
+pip install beautifulsoup4
 ```
 
 ## Run tests
