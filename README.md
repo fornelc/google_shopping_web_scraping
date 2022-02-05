@@ -1,4 +1,4 @@
-# Welcome to Google Shopping Web Scraping In Python 👋
+# Welcome to Google Shopping Web Scraping In Python
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/fornelc/google_shopping_web_scraping#readme)
 
